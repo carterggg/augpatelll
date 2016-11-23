@@ -184,8 +184,10 @@ fieldset[disabled] .btn-xl.active {
   color: #ED1C24;
   background-color: white;
 }
+
+/* Mobile Navbar Color */
 .navbar-custom {
-  background-color: #222222;
+  background-color: white;
   border-color: transparent;
 }
 .navbar-custom .navbar-brand {
@@ -258,7 +260,7 @@ fieldset[disabled] .btn-xl.active {
 }
 @media (min-width: 768px) {
   .navbar-custom.affix {
-    background-color: #222222;
+    background-color: white;
     padding: 10px 0;
   }
   .navbar-custom.affix .navbar-brand {
